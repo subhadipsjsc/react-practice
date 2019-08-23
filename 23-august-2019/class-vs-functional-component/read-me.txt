@@ -1,0 +1,8 @@
+shorten command line current address :
+    PROMPT_DIRTRIM=1
+
+Shortcurt for functional component
+    rfc -> tab
+
+Shortcurt for functional component
+    rcc -> tab

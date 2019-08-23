@@ -1,0 +1,3 @@
+# gnore all directories called node_modules in current folde
+r and any subfolders
+node_modules/
