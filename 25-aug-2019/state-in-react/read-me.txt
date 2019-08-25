@@ -1,0 +1,4 @@
+Sate in react :
+    functional componanets are STATE-LESS componanets
+    
+    class components can have STATE 

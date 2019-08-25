@@ -1,9 +1,10 @@
 import React from 'react'
 
-export default function User_functional_component() {
+export default function User_functional_component(props) {
     return (
         <div>
-             my namre is subhadip , and this is a "REACT FUNCTIONAL COMPONENT"
+            children Property: {props.children ? props.children : 'not available' }
+            name : {props.name ? props.name : 'not available'}
         </div>
     )
 }

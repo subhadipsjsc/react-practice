@@ -4,7 +4,8 @@ export default class User extends Component {
     render() {
         return (
             <div>
-                my namre is subhadip , and this is a "REACT CLASS COMPONENT"
+                children Property: {this.props.children ? this.props.children : 'not available' }
+                name : {this.props.name ? this.props.name : 'not available'} 
             </div>
         )
     }

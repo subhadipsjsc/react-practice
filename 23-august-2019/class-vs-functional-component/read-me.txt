@@ -6,3 +6,7 @@ Shortcurt for functional component
 
 Shortcurt for functional component
     rcc -> tab
+
+Use cammelCase / PascalCase for all component names 
+    import UsersClassComponent from './components/User_class_coponent';   ---(good)
+    import Users_Class_Component from './components/User_class_coponent'; ---(not recomended)
