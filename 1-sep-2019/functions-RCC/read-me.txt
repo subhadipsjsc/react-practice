@@ -1,0 +1,4 @@
+Sate in react :
+    setState method example
+	-add_age_by_5_anotherUsers function to change state of  "anotherUsers" using "users" (using different state properties)
+	-add_age_by_5_users function to change state of  "users" using "users" (using same state properties)

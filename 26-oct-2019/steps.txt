@@ -1,0 +1,6 @@
+redux:
+
+1. create several ACTIONS
+2. create several reducers ( each reducer may handle multiple or single actions) -> combine reducers
+3. create stote and pass reducers and middleware(if any)
+4. dispatch actions via store
